@@ -11,18 +11,18 @@
 | 仓库 | 星数 | 更新节奏 | 说明 | 最近提交 | 状态 |
 | --- | --- | --- | --- | --- | --- |
 <!-- UPSTREAM-TABLE:START -->
-| [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) | ★19996 | 约 6 小时 | 免费订阅地址与节点合集，Clash / SS / V2Ray / Trojan | 2026-11-22 | 更新中 |
-| [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ★9515 | 持续更新 | 自动获取免费机场订阅链接：Clash / V2Ray / Trojan / SSR / SS | 2026-11-22 | 更新中 |
-| [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) | ★6989 | 每日 | 免费代理节点聚合：vmess / vless / trojan / ss | 2026-11-21 | 更新中 |
-| [free18/v2ray](https://github.com/free18/v2ray) | ★5961 | 每日 | 每日分享免费节点、免费机场，含 Quantumult X 订阅 | 2026-11-21 | 更新中 |
-| [VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | ★5767 | 频繁 | Clash 与 V2Ray 免费订阅链接精选 | 2026-11-21 | 更新中 |
-| [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode) | ★2401 | 频繁 | 免费订阅 / 节点合集：ss / ssr / vmess / vless / trojan | 2026-11-22 | 更新中 |
-| [snakem982/proxypool](https://github.com/snakem982/proxypool) | ★2293 | 每日 | 免费节点池，Clash / V2Ray 订阅 | 2026-11-22 | 更新中 |
-| [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) | ★1125 | 自动更新 | Allblue 免费节点，流量用完自动换新订阅，支持 Clash / v2rayN / 小火箭 | 2026-11-22 | 更新中 |
-| [zhuhaiuk/free-nodes](https://github.com/zhuhaiuk/free-nodes) | ★458 | 每小时 | 自动更新的免费节点订阅，支持 Clash / Mihomo / V2Ray / Trojan / Shadowrocket | 2026-11-22 | 更新中 |
+| [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) | ★20010 | 约 6 小时 | 免费订阅地址与节点合集，Clash / SS / V2Ray / Trojan | 2026-11-23 | 更新中 |
+| [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ★9518 | 持续更新 | 自动获取免费机场订阅链接：Clash / V2Ray / Trojan / SSR / SS | 2026-11-23 | 更新中 |
+| [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) | ★6993 | 每日 | 免费代理节点聚合：vmess / vless / trojan / ss | 2026-11-22 | 更新中 |
+| [free18/v2ray](https://github.com/free18/v2ray) | ★5968 | 每日 | 每日分享免费节点、免费机场，含 Quantumult X 订阅 | 2026-11-22 | 更新中 |
+| [VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | ★5770 | 频繁 | Clash 与 V2Ray 免费订阅链接精选 | 2026-11-22 | 更新中 |
+| [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode) | ★2402 | 频繁 | 免费订阅 / 节点合集：ss / ssr / vmess / vless / trojan | 2026-11-23 | 更新中 |
+| [snakem982/proxypool](https://github.com/snakem982/proxypool) | ★2294 | 每日 | 免费节点池，Clash / V2Ray 订阅 | 2026-11-23 | 更新中 |
+| [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) | ★1127 | 自动更新 | Allblue 免费节点，流量用完自动换新订阅，支持 Clash / v2rayN / 小火箭 | 2026-11-22 | 更新中 |
+| [zhuhaiuk/free-nodes](https://github.com/zhuhaiuk/free-nodes) | ★459 | 每小时 | 自动更新的免费节点订阅，支持 Clash / Mihomo / V2Ray / Trojan / Shadowrocket | 2026-11-23 | 更新中 |
 <!-- UPSTREAM-TABLE:END -->
 
-星数与更新状态核实于 2026-11-22（由自动化每日更新）。
+星数与更新状态核实于 2026-11-23（由自动化每日更新）。
 
 ## 已剔除（停更）
 
